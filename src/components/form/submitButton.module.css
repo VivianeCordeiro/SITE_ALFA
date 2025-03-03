@@ -1,0 +1,21 @@
+
+.btn{
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1.2em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    border: 1em;
+    
+}
+
+.btn:hover{
+    color: #ffbb33;
+}
+.buttonContainer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: auto;
+  }
+  

@@ -1,0 +1,22 @@
+.newBudget_container {
+    width: 90%;
+    margin: 5%;
+    padding: 20px;
+    background-color: #e9e7e7;
+    border-radius: 0px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    background: #e9e7e7;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.newBudget_container h1 {
+    margin-bottom: 0.5em;
+}
+
+.newBudget_container p {
+    color: #7b7b7b;
+}

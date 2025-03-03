@@ -1,0 +1,23 @@
+.newCompanyInformation_container {
+    width: 90%;
+    margin: 5%;
+    padding: 20px;
+    background-color: #e9e7e7;
+    border-radius: 0px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.newCompanyInformation_container button {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.newCompanyInformation_container h1 {
+    margin-bottom: 0.5em;
+}
+
+.newCompanyInformation_container p {
+    color: #7b7b7b;
+}

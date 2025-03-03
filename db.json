@@ -1,0 +1,593 @@
+{
+  "budgets": [
+    {
+      "id": "724c",
+      "largura": "tert",
+      "altura": "sd",
+      "quantidadeModulos": "sdl",
+      "material": {
+        "id": "4",
+        "name": "Pré-Pintado"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "f57c",
+      "largura": "tert",
+      "altura": "fgd",
+      "quantidadeModulos": "j",
+      "material": {
+        "id": "5",
+        "name": "Inox"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "67d0",
+      "largura": "f",
+      "altura": "sd",
+      "quantidadeModulos": "sdl",
+      "material": {
+        "id": "2",
+        "name": "Galvalume"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "0cb9",
+      "largura": "dfg",
+      "altura": "dfg",
+      "quantidadeModulos": "dfgd",
+      "material": {
+        "id": "6",
+        "name": "PVC"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "57a5",
+      "company": {
+        "cliente": "teste",
+        "telefone": "teste2",
+        "email": "teste3"
+      },
+      "largura": "4",
+      "altura": "5",
+      "quantidadeModulos": "6",
+      "material": {
+        "id": "4",
+        "name": "Pré-Pintado"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "217e",
+      "company": {
+        "cliente": "teste",
+        "telefone": "teste2",
+        "email": "teste3"
+      },
+      "largura": "4",
+      "altura": "5",
+      "quantidadeModulos": "6",
+      "material": {
+        "id": "1",
+        "name": "Aliminio"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "0881",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "dfg",
+        "email": "dfg"
+      },
+      "largura": "dfg",
+      "altura": "dfg",
+      "quantidadeModulos": "dfg",
+      "material": {
+        "id": "6",
+        "name": "PVC"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "e5e3",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "dfg",
+        "email": "dfg"
+      },
+      "largura": "9899898989789.5",
+      "altura": "65.6",
+      "quantidadeModulos": "98.5",
+      "material": {
+        "id": "4",
+        "name": "Pré-Pintado"
+      },
+      "cost": 0,
+      "service": [],
+      "largura (m)": "6"
+    },
+    {
+      "id": "aa66",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "fgh",
+        "email": "fgh"
+      },
+      "largura": "456",
+      "altura": "456",
+      "quantidadeModulos": "456",
+      "material": {
+        "id": "8",
+        "name": "Fibra de Vidro"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "be58",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "fgh",
+        "email": "fgh"
+      },
+      "largura": "456",
+      "altura": "456",
+      "quantidadeModulos": "456",
+      "material": {
+        "id": "8",
+        "name": "Fibra de Vidro"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "ace7",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "fgh",
+        "email": "fgh"
+      },
+      "largura": "456",
+      "altura": "456",
+      "quantidadeModulos": "456",
+      "material": {
+        "id": "8",
+        "name": "Fibra de Vidro"
+      },
+      "cost": 0,
+      "service": [],
+      "aletas": 1
+    },
+    {
+      "id": "5547",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "fgh",
+        "email": "fgh"
+      },
+      "largura": "456",
+      "altura": "456",
+      "quantidadeModulos": "456",
+      "material": {
+        "id": "8",
+        "name": "Fibra de Vidro"
+      },
+      "cost": 0,
+      "service": [],
+      "aletas": 1
+    },
+    {
+      "id": "3f80",
+      "company": {
+        "cliente": "Teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "10",
+      "altura": "5",
+      "quantidadeModulos": "6",
+      "material": {
+        "id": "4",
+        "name": "Pré-Pintado"
+      },
+      "quantidadeAletas": 1.6666666666666667,
+      "precoTotalAletas": 30,
+      "perfilU": 21.666666666666668,
+      "perfilJ": 21.666666666666668,
+      "rebiteFlorado": 6.666666666666667,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "38bc",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "34",
+      "altura": "45",
+      "quantidadeModulos": "456",
+      "material": {
+        "id": "1",
+        "name": "Aliminio"
+      },
+      "quantidadeAletas": 0.07456140350877193,
+      "precoTotalAletas": 1.3421052631578947,
+      "perfilU": 0.969298245614035,
+      "perfilJ": 0.969298245614035,
+      "rebiteFlorado": 0.2982456140350877,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "4c46",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "39",
+      "altura": "45",
+      "quantidadeModulos": "456",
+      "material": {
+        "id": "1",
+        "name": "Aliminio"
+      },
+      "quantidadeAletas": 0.08552631578947369,
+      "precoTotalAletas": 1.5394736842105263,
+      "perfilU": 1.111842105263158,
+      "perfilJ": 1.111842105263158,
+      "rebiteFlorado": 0.34210526315789475,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "ec3e",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "39",
+      "altura": "45",
+      "quantidadeModulos": "456",
+      "material": {
+        "id": "1",
+        "name": "Aliminio"
+      },
+      "quantidadeAletas": 0.08552631578947369,
+      "precoTotalAletas": 1.5394736842105263,
+      "perfilU": 1.111842105263158,
+      "perfilJ": 1.111842105263158,
+      "rebiteFlorado": 0.34210526315789475,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "7e87",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "345",
+      "altura": "4565",
+      "quantidadeModulos": "67",
+      "quantidadeAletas": 5.149253731343284,
+      "precoTotalAletas": 92.68656716417911,
+      "perfilU": 66.94029850746269,
+      "perfilJ": 66.94029850746269,
+      "rebiteFlorado": 20.597014925373134,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "632b",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "345",
+      "altura": "4565",
+      "quantidadeModulos": "67",
+      "quantidadeAletas": 5.149253731343284,
+      "precoTotalAletas": 92.68656716417911,
+      "perfilU": 66.94029850746269,
+      "perfilJ": 66.94029850746269,
+      "rebiteFlorado": 20.597014925373134,
+      "cost": 0,
+      "service": [],
+      "material": {
+        "id": "5",
+        "name": "Inox"
+      }
+    },
+    {
+      "id": "00a4",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "a5fc",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "a8b7",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "7e25",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "ac26",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "3120",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "df5f",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "b06d",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "f847",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "0634",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "d56a",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "d303",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "3d69",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "6b6b",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "4b36",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "72ad",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "667e",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "420c",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "b003",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "321b",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "4918",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "a26e",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "cf38",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "b13a",
+      "quantidadeAletas": null,
+      "precoTotalAletas": null,
+      "perfilU": null,
+      "perfilJ": null,
+      "rebiteFlorado": null,
+      "cost": 0,
+      "service": []
+    }
+  ],
+  "materials": [
+    {
+      "id": "1",
+      "name": "Aliminio"
+    },
+    {
+      "id": "2",
+      "name": "Galvalume"
+    },
+    {
+      "id": "3",
+      "name": "Galvanizado"
+    },
+    {
+      "id": "4",
+      "name": "Pré-Pintado"
+    },
+    {
+      "id": "5",
+      "name": "Inox"
+    },
+    {
+      "id": "6",
+      "name": "PVC"
+    },
+    {
+      "id": "7",
+      "name": "Policarbonato"
+    },
+    {
+      "id": "8",
+      "name": "Fibra de Vidro"
+    }
+  ]
+}
