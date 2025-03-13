@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orçamento</title>
+    <style>
+        /* Layout geral */
+        body {
+            font-family: Arial, sans-serif;
+            padding: 30px;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        /* Cabeçalho da empresa */
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header h2 {
+            margin: 10px 0;
+        }
+
+        .header p {
+            margin: 5px 0;
+            color: #555;
+            font-size: 14px;
+        }
+
+        .header .contact {
+            font-size: 16px;
+        }
+
+        /* Detalhes do orçamento */
+        .orcamento-details ul {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 20px;
+        }
+
+        .orcamento-details li {
+            margin: 8px 0;
+            font-size: 16px;
+            color: #333;
+        }
+
+        .orcamento-details li span {
+            font-weight: bold;
+        }
+
+        .orcamento-details li .value {
+            margin-left: 10px;
+            color: #555;
+        }
+
+        /* Tabela de serviços e materiais */
+        .orcamento-table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+
+        .orcamento-table th, .orcamento-table td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .orcamento-table th {
+            background-color: #f4f4f4;
+        }
+
+        .orcamento-table td {
+            font-size: 14px;
+            color: #555;
+        }
+
+        /* Rodapé */
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 14px;
+            color: gray;
+        }
+
+        /* Responsive design */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container" id="orcamento">
+        <div class="header">
+            <h2>Alfa Venezianas Industriais</h2>
+            <p>CNPJ: 47.102.882/0001-60</p>
+            <p>Rua Anésio Botasso, 301, Jardim Bela Vista II, Artur Nogueira-SP</p>
+            <p>CEP 13165-106</p>
+            <p class="contact">E-mail: vendasalfavenezias@gmail.com | Tel: +55 (19) 99921-6351 | +55 (19) 99775-6921</p>
+            <p class="contact">Instagram: @alfaveneziasindustriais</p>
+            <p><strong>Orçamento:</strong> 043-2024</p>
+            <p><strong>Data:</strong> <span id="dataOrcamento"></span></p>
+        </div>
+
+        <hr>
+
+        <div class="orcamento-details">
+            <h3>Cliente:</h3>
+            <ul>
+                <li><span>Cliente:</span> <span id="cliente"></span></li>
+                <li><span>Telefone:</span> <span id="telefone"></span></li>
+                <li><span>Email:</span> <span id="email"></span></li>
+            </ul>
+
+            <h3>Informações Básicas:</h3>
+            <ul>
+                <li><span>Largura:</span> <span id="largura"></span> m</li>
+                <li><span>Altura:</span> <span id="altura"></span> m</li>
+                <li><span>Quantidade de Módulos:</span> <span id="quantidadeModulos"></span></li>
+                <li><span>Material:</span> <span id="material"></span></li>
+            </ul>
+
+            <h3>Serviços:</h3>
+            <table class="orcamento-table">
+                <thead>
+                    <tr>
+                        <th>Descrição</th>
+                        <th>Unidade</th>
+                        <th>Preço Unitário</th>
+                        <th>Qtd.</th>
+                        <th>Preço</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Instalação</td>
+                        <td>m²</td>
+                        <td>R$ 35,00</td>
+                        <td>150,50</td>
+                        <td>R$ 5.267,50</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>Materiais:</h3>
+            <table class="orcamento-table">
+                <thead>
+                    <tr>
+                        <th>Descrição</th>
+                        <th>Unidade</th>
+                        <th>Preço Unitário</th>
+                        <th>Qtd.</th>
+                        <th>Preço</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Veneziana Industrial de Policarbonato</td>
+                        <td>m²</td>
+                        <td>R$ 153,00</td>
+                        <td>105,50</td>
+                        <td>R$ 16.141,50</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>Total:</h3>
+            <ul>
+                <li><span>Serviços:</span> R$ 5.267,50</li>
+                <li><span>Materiais:</span> R$ 16.141,50</li>
+                <li><span>Total:</span> R$ 21.409,00</li>
+            </ul>
+
+            <h3>Pagamento:</h3>
+            <ul>
+                <li><span>Meios de pagamento:</span> Boleto, transferência bancária, dinheiro, cheque, cartão de crédito ou cartão de débito.</li>
+            </ul>
+
+            <h3>Informações adicionais:</h3>
+            <ul>
+                <li><span>Matéria prima faturada diretamente com fornecedores.</span></li>
+                <li><span>Entrega inclusa no orçamento.</span></li>
+                <li><span>Sinal de 50% de serviço.</span></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>Artur Nogueira, <span id="dataLocal"></span></p>
+            <p>Alfa Venezianas Industriais</p>
+        </div>
+    </div>
+
+    <script>
+        function preencherDados() {
+            const params = new URLSearchParams(window.location.search);
+            document.getElementById("cliente").textContent = params.get("cliente") || "Não informado";
+            document.getElementById("telefone").textContent = params.get("telefone") || "Não informado";
+            document.getElementById("email").textContent = params.get("email") || "Não informado";
+            document.getElementById("largura").textContent = params.get("largura") || "Não informado";
+            document.getElementById("altura").textContent = params.get("altura") || "Não informado";
+            document.getElementById("quantidadeModulos").textContent = params.get("quantidadeModulos") || "Não informado";
+            document.getElementById("material").textContent = params.get("material") || "Não informado";
+            document.getElementById("dataOrcamento").textContent = new Date().toLocaleDateString();
+            document.getElementById("dataLocal").textContent = new Date().toLocaleDateString();
+        }
+
+        window.onload = preencherDados;
+    </script>
+</body>
+</html>

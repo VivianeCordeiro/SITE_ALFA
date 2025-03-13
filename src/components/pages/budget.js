@@ -21,6 +21,7 @@ function Budget() {
     console.log("budget 2", budget);
     budget.cost = 0;
     budget.service = [];
+    budget.material = [];
 
     fetch("http://localhost:5000/budgets", {
       method: "POST",

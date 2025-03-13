@@ -1,322 +1,376 @@
 {
   "budgets": [
     {
-      "id": "724c",
-      "largura": "tert",
-      "altura": "sd",
-      "quantidadeModulos": "sdl",
-      "material": {
-        "id": "4",
-        "name": "Pré-Pintado"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "f57c",
-      "largura": "tert",
-      "altura": "fgd",
-      "quantidadeModulos": "j",
-      "material": {
-        "id": "5",
-        "name": "Inox"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "67d0",
-      "largura": "f",
-      "altura": "sd",
-      "quantidadeModulos": "sdl",
-      "material": {
-        "id": "2",
-        "name": "Galvalume"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "0cb9",
-      "largura": "dfg",
-      "altura": "dfg",
-      "quantidadeModulos": "dfgd",
-      "material": {
-        "id": "6",
-        "name": "PVC"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "57a5",
-      "company": {
-        "cliente": "teste",
-        "telefone": "teste2",
-        "email": "teste3"
-      },
-      "largura": "4",
-      "altura": "5",
-      "quantidadeModulos": "6",
-      "material": {
-        "id": "4",
-        "name": "Pré-Pintado"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "217e",
-      "company": {
-        "cliente": "teste",
-        "telefone": "teste2",
-        "email": "teste3"
-      },
-      "largura": "4",
-      "altura": "5",
-      "quantidadeModulos": "6",
-      "material": {
-        "id": "1",
-        "name": "Aliminio"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "0881",
-      "company": {
-        "cliente": "dfg",
-        "telefone": "dfg",
-        "email": "dfg"
-      },
-      "largura": "dfg",
-      "altura": "dfg",
-      "quantidadeModulos": "dfg",
-      "material": {
-        "id": "6",
-        "name": "PVC"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "e5e3",
-      "company": {
-        "cliente": "dfg",
-        "telefone": "dfg",
-        "email": "dfg"
-      },
-      "largura": "9899898989789.5",
-      "altura": "65.6",
-      "quantidadeModulos": "98.5",
-      "material": {
-        "id": "4",
-        "name": "Pré-Pintado"
-      },
+      "id": "6a8d",
+      "quantidadeAletas": 2.5,
+      "precoTotalAletas": 45,
+      "perfilU": 32.5,
+      "perfilJ": 32.5,
+      "rebiteFlorado": 10,
       "cost": 0,
       "service": [],
-      "largura (m)": "6"
-    },
-    {
-      "id": "aa66",
       "company": {
-        "cliente": "dfg",
-        "telefone": "fgh",
-        "email": "fgh"
+        "cliente": "JJ",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
       },
-      "largura": "456",
-      "altura": "456",
-      "quantidadeModulos": "456",
+      "largura": "50",
+      "altura": "250",
+      "quantidadeModulos": "20",
       "material": {
-        "id": "8",
-        "name": "Fibra de Vidro"
-      },
-      "cost": 0,
-      "service": []
+        "id": "3",
+        "name": "Perfil Galvalume corte 200"
+      }
     },
     {
-      "id": "be58",
-      "company": {
-        "cliente": "dfg",
-        "telefone": "fgh",
-        "email": "fgh"
-      },
-      "largura": "456",
-      "altura": "456",
-      "quantidadeModulos": "456",
-      "material": {
-        "id": "8",
-        "name": "Fibra de Vidro"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "ace7",
-      "company": {
-        "cliente": "dfg",
-        "telefone": "fgh",
-        "email": "fgh"
-      },
-      "largura": "456",
-      "altura": "456",
-      "quantidadeModulos": "456",
-      "material": {
-        "id": "8",
-        "name": "Fibra de Vidro"
-      },
-      "cost": 0,
-      "service": [],
-      "aletas": 1
-    },
-    {
-      "id": "5547",
-      "company": {
-        "cliente": "dfg",
-        "telefone": "fgh",
-        "email": "fgh"
-      },
-      "largura": "456",
-      "altura": "456",
-      "quantidadeModulos": "456",
-      "material": {
-        "id": "8",
-        "name": "Fibra de Vidro"
-      },
-      "cost": 0,
-      "service": [],
-      "aletas": 1
-    },
-    {
-      "id": "3f80",
+      "id": "1260",
       "company": {
         "cliente": "Teste",
         "telefone": "(35) 99871-7575",
         "email": "vivianecordeiro@unifei.edu.br"
       },
-      "largura": "10",
-      "altura": "5",
-      "quantidadeModulos": "6",
-      "material": {
-        "id": "4",
-        "name": "Pré-Pintado"
-      },
-      "quantidadeAletas": 1.6666666666666667,
-      "precoTotalAletas": 30,
-      "perfilU": 21.666666666666668,
-      "perfilJ": 21.666666666666668,
-      "rebiteFlorado": 6.666666666666667,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "38bc",
-      "company": {
-        "cliente": "teste",
-        "telefone": "(35) 99871-7575",
-        "email": "vivianecordeiro@unifei.edu.br"
-      },
-      "largura": "34",
-      "altura": "45",
-      "quantidadeModulos": "456",
+      "largura": "50",
+      "altura": "20",
+      "quantidadeModulos": "10",
       "material": {
         "id": "1",
-        "name": "Aliminio"
+        "name": "Perfil Galvalume corte 150 (chapa 026)"
       },
-      "quantidadeAletas": 0.07456140350877193,
-      "precoTotalAletas": 1.3421052631578947,
-      "perfilU": 0.969298245614035,
-      "perfilJ": 0.969298245614035,
-      "rebiteFlorado": 0.2982456140350877,
+      "quantidadeAletas": 5,
+      "precoTotalAletas": 90,
+      "perfilU": 65,
+      "perfilJ": 65,
+      "rebiteFlorado": 20,
       "cost": 0,
       "service": []
     },
     {
-      "id": "4c46",
+      "id": "2034",
       "company": {
-        "cliente": "teste",
+        "cliente": "Teste",
         "telefone": "(35) 99871-7575",
         "email": "vivianecordeiro@unifei.edu.br"
       },
-      "largura": "39",
-      "altura": "45",
-      "quantidadeModulos": "456",
+      "largura": "50",
+      "altura": "20",
+      "quantidadeModulos": "10",
       "material": {
         "id": "1",
-        "name": "Aliminio"
+        "name": "Perfil Galvalume corte 150 (chapa 026)"
       },
-      "quantidadeAletas": 0.08552631578947369,
-      "precoTotalAletas": 1.5394736842105263,
-      "perfilU": 1.111842105263158,
-      "perfilJ": 1.111842105263158,
-      "rebiteFlorado": 0.34210526315789475,
+      "quantidadeAletas": 5,
+      "precoTotalAletas": 90,
+      "perfilU": 65,
+      "perfilJ": 65,
+      "rebiteFlorado": 20,
       "cost": 0,
       "service": []
     },
     {
-      "id": "ec3e",
+      "id": "29fb",
       "company": {
         "cliente": "teste",
         "telefone": "(35) 99871-7575",
         "email": "vivianecordeiro@unifei.edu.br"
       },
-      "largura": "39",
-      "altura": "45",
-      "quantidadeModulos": "456",
+      "largura": "50",
+      "altura": "20",
+      "quantidadeModulos": "10",
       "material": {
-        "id": "1",
-        "name": "Aliminio"
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
       },
-      "quantidadeAletas": 0.08552631578947369,
-      "precoTotalAletas": 1.5394736842105263,
-      "perfilU": 1.111842105263158,
-      "perfilJ": 1.111842105263158,
-      "rebiteFlorado": 0.34210526315789475,
+      "quantidadeAletas": 5,
+      "precoTotalAletas": 90,
+      "perfilU": 65,
+      "perfilJ": 65,
+      "rebiteFlorado": 20,
       "cost": 0,
       "service": []
     },
     {
-      "id": "7e87",
+      "id": "7049",
       "company": {
         "cliente": "teste",
         "telefone": "(35) 99871-7575",
         "email": "vivianecordeiro@unifei.edu.br"
       },
-      "largura": "345",
-      "altura": "4565",
-      "quantidadeModulos": "67",
-      "quantidadeAletas": 5.149253731343284,
-      "precoTotalAletas": 92.68656716417911,
-      "perfilU": 66.94029850746269,
-      "perfilJ": 66.94029850746269,
-      "rebiteFlorado": 20.597014925373134,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "632b",
-      "company": {
-        "cliente": "teste",
-        "telefone": "(35) 99871-7575",
-        "email": "vivianecordeiro@unifei.edu.br"
-      },
-      "largura": "345",
-      "altura": "4565",
-      "quantidadeModulos": "67",
-      "quantidadeAletas": 5.149253731343284,
-      "precoTotalAletas": 92.68656716417911,
-      "perfilU": 66.94029850746269,
-      "perfilJ": 66.94029850746269,
-      "rebiteFlorado": 20.597014925373134,
-      "cost": 0,
-      "service": [],
+      "largura": "50",
+      "altura": "20",
+      "quantidadeModulos": "10",
       "material": {
-        "id": "5",
-        "name": "Inox"
-      }
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
+      },
+      "quantidadeAletas": 5,
+      "precoTotalAletas": 90,
+      "perfilU": 65,
+      "perfilJ": 65,
+      "rebiteFlorado": 20,
+      "cost": 0,
+      "service": []
     },
     {
-      "id": "00a4",
+      "id": "711b",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "7",
+        "name": "Perfil Galvanizado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "d51d",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "10",
+        "name": "Perfil Pré pintado corte 200"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "3521",
+      "company": {
+        "cliente": "dfg",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "10",
+        "name": "Perfil Pré pintado corte 200"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "a74e",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "200",
+      "altura": "150",
+      "quantidadeModulos": "20",
+      "material": {
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "4b64",
+      "company": {
+        "cliente": "teste",
+        "telefone": "100",
+        "email": "20"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "ec05",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "fc87",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "19",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "acea",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "6",
+        "name": "Perfil Galvanizado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "b914",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "9",
+      "material": {
+        "id": "11",
+        "name": "Perfil Pré pintado preto corte 150"
+      },
+      "quantidadeAletas": 11.11111111111111,
+      "precoTotalAletas": 200,
+      "perfilU": 144.44444444444443,
+      "perfilJ": 144.44444444444443,
+      "rebiteFlorado": 44.44444444444444,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "4b79",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "11",
+        "name": "Perfil Pré pintado preto corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "2bd9",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "10",
+        "name": "Perfil Pré pintado corte 200"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "daa2",
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "11",
+        "name": "Perfil Pré pintado preto corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "76bd",
       "quantidadeAletas": null,
       "precoTotalAletas": null,
       "perfilU": null,
@@ -326,232 +380,194 @@
       "service": []
     },
     {
-      "id": "a5fc",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "0031",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "8",
+        "name": "Perfil Galvanizado corte 300"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "a8b7",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "474e",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "11",
+        "name": "Perfil Pré pintado preto corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "7e25",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "c81b",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "ac26",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "fde9",
+      "company": {
+        "cliente": "teste",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "7",
+        "name": "Perfil Galvanizado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "3120",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "6942",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "8",
+        "name": "Perfil Galvanizado corte 300"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "df5f",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "36a0",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": {
+        "id": "9",
+        "name": "Perfil Pré pintado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "b06d",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "bdc8",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "200",
+      "altura": "30",
+      "quantidadeModulos": "20",
+      "material": {
+        "id": "7",
+        "name": "Perfil Galvanizado corte 150"
+      },
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "f847",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "bd36",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "200",
+      "altura": "30",
+      "quantidadeModulos": "20",
+      "material": [],
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     },
     {
-      "id": "0634",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "d56a",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "d303",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "3d69",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "6b6b",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "4b36",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "72ad",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "667e",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "420c",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "b003",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "321b",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "4918",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "a26e",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "cf38",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
-      "cost": 0,
-      "service": []
-    },
-    {
-      "id": "b13a",
-      "quantidadeAletas": null,
-      "precoTotalAletas": null,
-      "perfilU": null,
-      "perfilJ": null,
-      "rebiteFlorado": null,
+      "id": "af22",
+      "company": {
+        "cliente": "Viviane",
+        "telefone": "(35) 99871-7575",
+        "email": "vivianecordeiro@unifei.edu.br"
+      },
+      "largura": "100",
+      "altura": "20",
+      "quantidadeModulos": "10",
+      "material": [],
+      "quantidadeAletas": 10,
+      "precoTotalAletas": 180,
+      "perfilU": 130,
+      "perfilJ": 130,
+      "rebiteFlorado": 40,
       "cost": 0,
       "service": []
     }
@@ -559,35 +575,87 @@
   "materials": [
     {
       "id": "1",
-      "name": "Aliminio"
+      "name": "Perfil Galvalume corte 150 (chapa 026)",
+      "chapa": "026",
+      "preco": "9.44"
     },
     {
       "id": "2",
-      "name": "Galvalume"
+      "name": "Perfil Galvalume corte 150 (chapa 065)",
+      "chapa": "065",
+      "preco": "13.00"
     },
     {
       "id": "3",
-      "name": "Galvanizado"
+      "name": "Perfil Galvalume corte 200",
+      "chapa": "024",
+      "preco": "17.50"
     },
     {
       "id": "4",
-      "name": "Pré-Pintado"
+      "name": "Perfil Galvalume corte 250",
+      "chapa": "026",
+      "preco": "16.00"
     },
     {
       "id": "5",
-      "name": "Inox"
+      "name": "Perfil Galvalume corte 300",
+      "chapa": "28",
+      "preco": "20.00"
     },
     {
       "id": "6",
-      "name": "PVC"
+      "name": "Perfil Galvanizado corte 150",
+      "chapa": "026",
+      "preco": "10.00"
     },
     {
       "id": "7",
-      "name": "Policarbonato"
+      "name": "Perfil Galvanizado corte 150",
+      "chapa": "050",
+      "preco": "9.15"
     },
     {
       "id": "8",
-      "name": "Fibra de Vidro"
+      "name": "Perfil Galvanizado corte 300",
+      "chapa": "026",
+      "preco": "45.00"
+    },
+    {
+      "id": "9",
+      "name": "Perfil Pré pintado corte 150",
+      "chapa": "026",
+      "preco": "13.00"
+    },
+    {
+      "id": "10",
+      "name": "Perfil Pré pintado corte 200",
+      "chapa": "026",
+      "preco": "15.00"
+    },
+    {
+      "id": "11",
+      "name": "Perfil Pré pintado preto corte 150",
+      "chapa": "026",
+      "preco": "12.50"
+    },
+    {
+      "id": "12",
+      "name": "Perfil Pré pintado preto corte 300",
+      "chapa": "026",
+      "preco": "23.50"
+    },
+    {
+      "id": "13",
+      "name": "Perfil de Alumínio corte 200",
+      "chapa": "1mm",
+      "preco": "36.00"
+    },
+    {
+      "id": "14",
+      "name": "Perfil Pré pintado branco",
+      "chapa": "024",
+      "preco": "19.00"
     }
   ]
 }
